@@ -944,7 +944,14 @@ h1, h2, h3, h4, h5,
 .footer-section {
   padding-top: 12rem !important; }
 .make-responsive-image{
-
+  max-width:100%;
+}
+.my-cursor{
+  cursor: url('../images/desert.png'),auto;
+}
+.intro-statement{
+  color: #000;
+font-size: x-large;
 }
 .my-custom-list-item-styles{
   list-style-type: none;
