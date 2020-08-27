@@ -943,6 +943,9 @@ h1, h2, h3, h4, h5,
 
 .footer-section {
   padding-top: 12rem !important; }
+.upwork-blue{
+  background-color: #1d4354;
+}
 .make-responsive-image{
   max-width:100%;
 }
