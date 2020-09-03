@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5,
   color: #fff;
   border-radius: 40px;
   border-color: #71bd2e;
-  width: 70%;
+  width: 85%;
   height: 80px;
   font-size: x-large;
   text-transform: uppercase;
@@ -60,8 +60,8 @@ h1, h2, h3, h4, h5,
   background-color: rgba(0,0,0,0.6);
 }
 .sunny-morning-gradient-text {
-  /* Fallback: Set a background color. */
-  background-color: red;
+    /* Fallback: Set a background color. */
+    background-color: red;
     background-image: linear-gradient(120deg,#ffa354 0,#ff3900 100%);
 
     /* Set the background size and repeat properties. */
