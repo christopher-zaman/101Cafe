@@ -42,7 +42,23 @@ h1, h2, h3, h4, h5,
 
 .color-white-opacity-5 {
   color: rgba(255, 255, 255, 0.5); }
-
+.uber-eats-button{
+  background-color: rgba(0,0,0,0.3);
+  color: #fff;
+  border-radius: 40px;
+  border-color: #71bd2e;
+  width: 70%;
+  height: 80px;
+  font-size: x-large;
+  text-transform: uppercase;
+}
+.uber-color{
+  color: #71bd2e;
+}
+.uber-eats-button:hover{
+  text-decoration:none;
+  background-color: rgba(0,0,0,0.6);
+}
 .site-wrap:before {
   display: none;
   -webkit-transition: .3s all ease-in-out;
@@ -898,7 +914,7 @@ h1, h2, h3, h4, h5,
         font-size: 2rem; } }
   .bgimg a {
     color: #fff;
-    text-decoration: underline; }
+     }
     .bgimg a:hover {
       text-decoration: none; }
 
