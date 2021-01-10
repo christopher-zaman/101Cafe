@@ -55,12 +55,15 @@ h1, h2, h3, h4, h5,
 .uber-color{
   color: #71bd2e;
 }
-.grubhub-color{
+.grubhub-button{
     background-color: rgba(0,0,0,0.4);
     color: #fff;
     border-radius: 40px;
     border-color: #F63440;
     width: 85%;
+}
+.grubhub-color {
+    color: #F63440;
 }
 .uber-eats-button:hover{
   text-decoration:none;
