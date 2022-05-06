@@ -65,6 +65,39 @@ h1, h2, h3, h4, h5,
 .grubhub-color {
     color: #F63440;
 }
+.grub-hub-styles{
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  border-radius: 40px;
+  border-color: #F63440;
+  width: 85%;
+}
+.door-dash-styles{
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  border-radius: 40px;
+  border-color: #F63440;
+  width: 85%;
+}
+.uber-eats-styles{
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  border-radius: 40px;
+  border-color: #71bd2e;
+  width: 85%;
+}
+.pdf-styles{
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  border-radius: 40px;
+  border-color: #ff8932;
+  width: 85%;
+}
+
+
+
+
+
 .uber-eats-button:hover{
   text-decoration:none;
   background-color: rgba(0,0,0,0.6);
@@ -363,7 +396,7 @@ h1, h2, h3, h4, h5,
   z-index: 1999;
   position: absolute;
   width: 100%;
-  background-color: rgba(0,0,0,0.5)}
+  /*background-color: rgba(0,0,0,0.5)*/}
   .site-navbar .container-fluid {
     padding-left: 7rem;
     padding-right: 7rem; }
@@ -916,10 +949,10 @@ h1, h2, h3, h4, h5,
   background-repeat: no-repeat;
   position: relative; }
   .bgimg, .bgimg .container .row {
-    height: 500px; }
+    height: auto; }
   .bgimg:before {
     content: "";
-    background-color: rgba(0, 0, 0, 0.4);
+    /*background-color: rgba(0, 0, 0, 0.4);*/
     position: absolute;
     left: 0;
     right: 0;
